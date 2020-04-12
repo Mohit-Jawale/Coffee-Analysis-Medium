@@ -6,4 +6,13 @@ I found that data needed lot of cleaning,which in have performed in my basic_ana
 
 The analysis is mostly focused on the fact that hunt me for long time when i heard it from my friend that coffee taste varies with the altitude at which it is grown.so to answer my curiosity i have perform this analysis and also im coffee lover.
 
+Here in the analysis i have used python as my analysis language and various data science libraries which are as follows-:
+
+1)Pandas.
+2)Numpy.
+3)Seaborn.
+4)matplotlib.
+
+I have mainly used descriptive analysis for analysis above dataset.
+
 
